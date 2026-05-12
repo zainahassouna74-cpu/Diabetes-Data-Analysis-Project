@@ -87,7 +87,8 @@ These visualizations help reveal patterns and trends associated with diabetes ri
 ---
 
 ## 👩‍💻 Author
-Developed by 
+Developed by
+
 Zaina Akram Hassouna
 
 Sara Ahmed Al-shorafa   
