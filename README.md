@@ -70,19 +70,6 @@ These visualizations help reveal patterns and trends associated with diabetes ri
 
 ---
 
-## 📷 Dashboard Preview
-
-### Main Dashboard
-![Dashboard](images/dashboard1.png)
-
-### Analysis Dashboard
-![Dashboard](images/dashboard2.png)
-
-### Risk Analysis Dashboard
-![Dashboard](images/dashboard3.png)
-
----
-
 ## 📌 Key Insights
 - Higher glucose levels are strongly associated with diabetes diagnosis.
 - Obesity represents the largest BMI category among diabetes cases.
